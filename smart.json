@@ -1,11 +1,9 @@
 {
-  "name": "GAnalytics",
-  "description": "Use google's new analytics.js to track pageview's and events.",
-  "homepage": "https://github.com/datariot/meteor-ganalytics",
-  "author": "David W. Allen <david@datariot.io>",
-  "version": "0.2.0",
-  "git": "https://github.com/datariot/meteor-ganalytics.git",
-  "packages": {
-  
-  }
+  "name": "metrika",
+  "description": "Reactive Yandex Metrika wrapper for meteor",
+  "homepage": "https://github.com/datariot/meteor-metrika",
+  "author": "Yasin Uslu <a.yasin.uslu@gmail.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/datariot/meteor-metrika.git",
+  "packages": {}
 }
