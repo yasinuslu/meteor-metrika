@@ -3,7 +3,7 @@
   "description": "Reactive Yandex Metrika wrapper for meteor",
   "homepage": "https://github.com/datariot/meteor-metrika",
   "author": "Yasin Uslu <a.yasin.uslu@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/datariot/meteor-metrika.git",
   "packages": {}
 }
