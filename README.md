@@ -5,8 +5,16 @@ This package is influenced by GAnalytics, but it's actually quite different
 
 ### Installing
 
+Before 0.9.0
+
 ```
 mrt add metrika
+```
+
+After 0.9.0:
+
+```
+meteor add yasinuslu:metrika
 ```
 
 If you don't have a settings.json file, you need to add one and load it according to the Meteor documentation. http://docs.meteor.com/#meteor_settings
